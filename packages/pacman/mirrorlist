@@ -1,0 +1,10 @@
+Server = https://ftp.lanet.kr/pub/archlinux/$repo/os/$arch
+Server = https://ftp.jaist.ac.jp/pub/Linux/ArchLinux/$repo/os/$arch
+Server = https://jpn.mirror.pkgbuild.com/$repo/os/$arch
+Server = https://mirrors.kernel.org/archlinux/$repo/os/$arch
+Server = https://mirrors.lug.mtu.edu/archlinux/$repo/os/$arch
+Server = https://iad.mirrors.misaka.one/archlinux/$repo/os/$arch
+Server = https://mirrors.mit.edu/archlinux/$repo/os/$arch
+Server = https://mirrors.ocf.berkeley.edu/archlinux/$repo/os/$arch
+Server = https://arch.rrig.gs/$repo/os/$arch
+Server = https://plug-mirror.rcac.purdue.edu/archlinux/$repo/os/$arch
